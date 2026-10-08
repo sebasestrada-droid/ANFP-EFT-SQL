@@ -1,5 +1,7 @@
 # ANFP - Evaluación Final Transversal
 
+( DISCULPE PROFESOR LE DEJO SUBIDO AQUI EL WORD CON LOS DIAGRAMAS NO LO SUBI AL AVA POR ERROR )
+
 Proyecto de base de datos desarrollado para la Evaluación Final Transversal (EFT), basado en el caso de la Asociación Nacional de Fútbol Profesional (ANFP).
 
 ## Descripción
